@@ -1,6 +1,5 @@
 # Movie-Review-Sentiment-Analysis
-This code uses logistic regression to judge whether a movie review is positive or negative. This was done as part of an assignment for Introduction to Machine Learning class at CMU
-
+This code uses logistic regression to judge whether a movie review is positive or negative. 
 
 Dict.txt : Contains a vocabulary of words and their indexes. We are considering words present only in this vocab.
 
